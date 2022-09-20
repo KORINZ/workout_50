@@ -1,4 +1,4 @@
-#
+#Ubbi Dubbi - Englsih translator
 
 def ubbi_dubbi(word):
 
